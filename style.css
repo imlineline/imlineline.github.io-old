@@ -1,0 +1,40 @@
+.col {
+    color: #65524b;
+    text-align: center;
+    line-height: 180%;
+}
+
+.nav-link {
+    color: #65524b;
+}
+
+.nav-link:hover {
+    color: #ffffff;
+}
+
+h2 {
+    font-weight: 900;
+}
+
+.heroimg {
+    background-image: url(cover.jpg);
+    background-size: cover;
+}
+
+.card {
+    color: #65524b;
+    transition: all .4s;
+}
+
+.card:hover {
+    box-shadow: 5px 5px 5px #ddd;
+    transform: translate(-5px, -5px);
+}
+
+.footer {
+    background-color: #65524b;
+}
+
+.row {
+    color: rgb(255, 239, 215);
+}
